@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "technical",
+        "2": "data (things)",
+        "3": "containers"
+    },
+    "demo_page": "https://clasic-plugins.bubbleapps.io/version-test",
+    "description": "The core of the MathJax project is the development of its state-of-the-art, open source, JavaScript platform for display of mathematics. Our key design goals are:\n\nHigh-quality display of mathematics notation in all browsers.\nNo special browser setup required.\nSupport for LaTeX, MathML, and other equation markup directly in the HTML source.\nAn extensible, modular design with a rich API for easy integration into web applications.\nSupport for accessibility, copy and paste, and other rich functionality.\nInteroperability with other applications and math-aware search.\nSupport for equation conversion outside a browser (e.g., preprocessing on a server).\n\n\ndocs over on: https://www.mathjax.org/\nAny issues shoot an email to clasicwebtools [@] gmail.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1666624830539x826566795907564900/giphy%20%282%29.gif",
+    "license": "open_source",
+    "link": "https://clasic-plugins.bubbleapps.io/version-test",
+    "name": "LaTeX, MathML or equation to text",
+    "plugin_instructions": "Import the plugin and fetch data being returned."
+}
